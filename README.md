@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Techno-Adi.
+- 👀 I’m interested in being a Full Stack Web Developer.
+- 🌱 I’m currently learning and perfecting my concepts and knowledge of backend languages.
